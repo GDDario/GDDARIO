@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GDDARIO
 - 👀 I’m interested in programming and science
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, PHP and Flutter
 - 
 - 📫 If you want to talk to me, send a email to gabrielhanma@hotmail.com
 
