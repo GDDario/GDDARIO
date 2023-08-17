@@ -18,7 +18,7 @@
   <img align="center" alt="reactjs" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
-#### If you want to talk to me, send a email to gd.dario110@gmail.com. I will reply as soon as possible.
+#### If you want to talk to me, send a email to gd.dario.dev@gmail.com. I will reply as soon as possible.
 
 <!---
 GDDario/GDDARIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
