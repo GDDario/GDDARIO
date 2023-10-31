@@ -1,4 +1,4 @@
-# Hi, I am @GDDARIO 🫶
+# Hi, I am @GDDARIO
 
 ![GDDARIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=gddario&show_icons=true&bg_color=00000000)
 
