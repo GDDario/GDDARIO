@@ -9,6 +9,7 @@ Hello, I'm Gabriel Dário. I have loved technology since I was little, and when 
 <div style="display: inline_block;">
   <img align="middle" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width: 100%;">
   <img align="middle" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" style="max-width: 100%;">
+  <img align="middle" alt="livewire" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" style="max-width: 100%;" />
   <img align="middle" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;">
   <img align="middle" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width: 100%;">
   <img align="middle" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
