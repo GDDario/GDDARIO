@@ -16,6 +16,13 @@ Hello, I'm Gabriel Dário. I have loved technology since I was little, and when 
   <img align="middle" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="max-width: 100%;">
 </div>
 
+## Personal projects I’m working on at the moment
+
+Here is a list of personal projects that i'm currently working on:
+- [Personal Finance](https://github.com/gdDario/personal-finance) - A Flutter application for managing personal expenses and tracking spending, created to study the framework and the Dart Language.
+- [Nota Por Nota](https://github.com/gdDario/personal-finance) - Graduation project - a software for music therapy.
+- Profissional curriculum website.
+
 <br>
 
 #### If you want to talk to me, send a email to gd.dario.dev@gmail.com. I will reply as soon as possible.
