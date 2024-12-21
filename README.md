@@ -23,8 +23,6 @@ Here is a list of personal projects that i'm currently working on:
 - [Nota Por Nota](https://github.com/gdDario/personal-finance) - Graduation project - a software for music therapy.
 - Profissional curriculum website.
 
-<br>
-
 #### If you want to talk to me, send a email to gd.dario.dev@gmail.com. I will reply as soon as possible.
 
 <!---
