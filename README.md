@@ -1,3 +1,5 @@
+# Hello visitor!
+
 ![GDDARIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=gddario&show_icons=true&theme=blue_navy)
 
 My name is Gabriel Dário, also known as GDDario. I've been passionate about technology since childhood. Once I discovered the endless possibilities of what can be done with computers and how it's achieved, I became deeply motivated by solving complex challenges and building meaningful applications. I'm also an avid Linux enthusiast. Here on GitHub, I share my journey, projects, and contributions to the tech community.
