@@ -4,6 +4,8 @@
 
 Hello, I'm Gabriel Dário. I have loved technology since I was little, and when I discovered what could be done with computers and how it was done, the thrill of finding solutions to complex challenges and building applications arose. I am also a Linux enthusiast. I share some of my journey and projects here on GitHub.
 
+I believe that excellence comes from discipline, effort and desire. 👑
+
 ## Tech Stack
 
 <div style="display: inline_block;">
