@@ -23,7 +23,7 @@ I believe that excellence comes from discipline, effort and desire. 👑
 
 Here is a list of personal projects that i'm currently working on:
 - [Personal Finance](https://github.com/gdDario/personal-finance) - A Flutter application for managing personal expenses and tracking spending, created to study the framework and the Dart Language.
-- [Nota Por Nota](https://github.com/gdDario/personal-finance) - Graduation project - a software for music therapy.
+- [Nota Por Nota](https://github.com/gdDario/nota-por-nota) - Graduation project - a software for music therapy.
 - Profissional curriculum website.
 
 #### ✉️ If you want to talk to me, send an email to gd.dario.dev@gmail.com. I will reply as soon as possible.
